@@ -1,5 +1,5 @@
 
-<img width="100%" src="./GITHUB.png" >
+<img width="100%" src="https://github.com/saifscripts/saifscripts/blob/main/cover.png" >
 
 <div style="display: flex;">
   <a href="https://www.linkedin.com/in/saifscripts/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="28"></a>
