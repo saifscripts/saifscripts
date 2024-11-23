@@ -1,4 +1,3 @@
-
 <img width="100%" src="https://github.com/saifscripts/saifscripts/blob/main/cover.png" >
 
 <div style="display: flex;">
