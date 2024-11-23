@@ -8,6 +8,13 @@
   <img src="https://visitcount.itsvg.in/api?id=saifscripts&label=Profile%20Views&color=0&icon=5&pretty=true" height="28" />
 </div>
 
+##  About Me
+**Hi, I'm Saif**. I'm a front-end developer who specializes in building dynamic, responsive, and user-friendly web applications that solve real-world problems. My goal is to become a world-class software architect who crafts efficient and scalable solutions.<br><br>
+
+🔭 I'm currently working on the Delibhai project, optimizing UI/UX, and rider search.<br><br>
+🌱 I'm currently learning Next.js and planning to learn PostgreSQL.<br><br>
+⚡ Fun fact: I have a Master's in Zoology, but my passion is coding and building awesome software!
+
 ## Tech Stack
 
 | Categories | Technologies |
@@ -17,13 +24,13 @@
 |Database| ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
 |Tools| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
+<!-- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) -->
+
 ## GitHub Stats
 <div style="display: flex;">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=saifscripts&theme=holi-theme&hide_border=true" alt="GitHub Streak" width="58%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifscripts&theme=holi&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="41.5%" />
 </div>
 
----
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=saifscripts&theme=radical&no-frame=false&no-bg=true&margin-w=4)
