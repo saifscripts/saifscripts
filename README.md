@@ -30,6 +30,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=saifscripts&theme=holi-theme&hide_border=true" alt="GitHub Streak" width="58%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifscripts&theme=holi&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="41.5%" />
 </div>
-
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saifscripts&theme=radical&no-frame=false&no-bg=true&margin-w=4)
