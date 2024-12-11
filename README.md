@@ -27,6 +27,6 @@
 
 ## GitHub Stats
 <div style="display: flex;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saifscripts&theme=holi-theme&hide_border=true" alt="GitHub Streak" width="58%" />
+  <img src="https://github-readme-streak-stats.mdsaifullah.dev?user=saifscripts&theme=holi-theme&hide_border=true" alt="GitHub Streak" width="58%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifscripts&theme=holi&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="41.5%" />
 </div>
