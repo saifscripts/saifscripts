@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/saifscripts/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="28"></a>
   <a href="https://x.com/saifscripts"><img src="https://img.shields.io/badge/twitter-000000?&style=for-the-badge&logo=x&logoColor=white" height="28"></a>
   <a href="https://discord.gg/fAq6VUyg"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="28"></a>
-  <a href="mailto:contact@mdsaifullah.dev"><img src="https://img.shields.io/badge/gmail-EA4335?&style=for-the-badge&logo=gmail&logoColor=white" height="28"></a>
+  <a href="mailto:contact@mdsaifullah.dev"><img src="https://img.shields.io/badge/email-EA4335?&style=for-the-badge&logo=gmail&logoColor=white" height="28"></a>
   <img src="https://visitcount.itsvg.in/api?id=saifscripts&label=Profile%20Views&color=0&icon=5&pretty=true" height="28" />
 </div>
 
