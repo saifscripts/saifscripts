@@ -9,7 +9,7 @@
 
 ## About Me
 
-**Hi, I'm Saif**. I'm a front-end developer who specializes in building dynamic, responsive, and user-friendly web applications that solve real-world problems. My goal is to become a world-class software architect who crafts efficient and scalable solutions.<br><br>
+**Hi, I'm Saif**. I'm a front-end developer who specializes in building dynamic, responsive, and user-friendly web applications that solve real-world problems. My goal is to become a world-class Software Engineer who crafts efficient and scalable solutions.<br><br>
 🔭 I'm currently working on a course platform project with certificate verification system.<br><br>
 🌱 I'm currently learning Data Structures & Algorithms, and exploring Computer Science fundamentals.<br><br>
 ⚡ Fun fact: I have a Master's in Zoology, but my passion is coding and building awesome software!
